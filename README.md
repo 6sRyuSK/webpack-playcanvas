@@ -26,7 +26,7 @@ Supported files : [`.js`,`.html`,`.css`,`.txt`,`.json`]
 3. add plugin in webpack config
 
 ``` webpack.config.js
-// webpack config
+// webpack.config.js
 const webpackPlaycanvas = require('./webpack-playcanvas')
 const playcanvasOption = require('./playcanvas')
 
