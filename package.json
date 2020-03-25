@@ -1,0 +1,14 @@
+{
+  "name": "webpack-playcanvas",
+  "version": "1.0.0",
+  "description": "webpack plugin, upload file to canvas editor",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.12.7",
+    "playcanvas-node": "^1.4.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6sRyuSK/webpack-playcanvas.git"
+  }
+}
