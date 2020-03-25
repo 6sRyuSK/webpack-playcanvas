@@ -1,6 +1,6 @@
 {
   "name": "webpack-playcanvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack plugin, upload file to canvas editor",
   "main": "index.js",
   "dependencies": {
