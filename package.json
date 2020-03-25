@@ -10,5 +10,20 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/6sRyuSK/webpack-playcanvas.git"
-  }
+  },
+  "keywords": [
+    "deploy",
+    "file",
+    "files",
+    "webpackplugin",
+    "playcanvas",
+    "restapi",
+    "webgl"
+  ],
+  "bugs": {
+    "url": "https://github.com/6sRyuSK/webpack-playcanvas/issues"
+  },
+  "homepage": "https://github.com/6sRyuSK/webpack-playcanvas#readme",
+  "author": "6sRyuSK <example@example.com> (https://github.com/6sRyuSK/)",
+  "license": "MIT"
 }
