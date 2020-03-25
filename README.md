@@ -64,3 +64,7 @@ Type: `string`
 #### options.remotePath
 Required
 Type: `string`
+
+# License
+
+MIT © [6sRyuSK](https://github.com/6sryuSK)
