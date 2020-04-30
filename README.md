@@ -27,7 +27,7 @@ Supported files : [`.js`,`.html`,`.css`,`.txt`,`.json`]
 
 ``` webpack.config.js
 // webpack.config.js
-const webpackPlaycanvas = require('./webpack-playcanvas')
+const webpackPlaycanvas = require('webpack-playcanvas')
 const playcanvasOption = require('./playcanvas')
 
 module.exports = {
